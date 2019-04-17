@@ -1,5 +1,6 @@
 # IOT_Project
 
-#Radio antenna API: http://www.airspayce.com/mikem/arduino/RadioHead/index.html
+#Radio antenna API: https://github.com/nRF24/RF24
+#Radio antenna documentation: http://tmrh20.github.io/RF24/
 
 #GPS API: http://arduiniana.org/libraries/TinyGPS/
